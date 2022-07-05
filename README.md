@@ -31,7 +31,6 @@
   <tr>
     <td align="center">
       <b>Download</b><br />
-      <img src="https://img.shields.io/github/downloads/serozr/anti-gamemode/total?style=flat-square&color=000000&label=%20" />
     </td>
     <td><ul>
       <li><a href="https://www.curseforge.com/minecraft/customization/anti-game-mode">CurseForge</a></li>
