@@ -57,7 +57,7 @@
 Tired of your cheating friends ?
 
 - Gives a funny punishment to the person who goes into creative mode.
-- If it tries to switch to creative mode it will revert to its old mode
+- If it tries to switch to creative mode it will revert to its old mode.
 
 Version List
 
