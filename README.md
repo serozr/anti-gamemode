@@ -35,6 +35,7 @@
     <td><ul>
       <li><a href="https://www.curseforge.com/minecraft/customization/anti-game-mode">CurseForge</a></li>
       <li><a href="https://github.com/serozr/anti-gamemode/releases">GitHub</a></li>
+      <li><a href="https://www.planetminecraft.com/data-pack/anti-gamemode/">Planet Minecraft</a></li>
     </ul></td>
   </tr>
   <tr>
