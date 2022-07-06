@@ -1,10 +1,6 @@
 execute at @a[gamemode=spectator] run summon potion ~ ~ ~ {Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:harming"}}}
 
-execute at @a[gamemode=spectator] run summon tnt ~ ~ ~
-
 execute at @a[gamemode=creative] run summon potion ~ ~ ~ {Item:{id:"minecraft:splash_potion",Count:1b,tag:{Potion:"minecraft:harming"}}}
-
-execute at @a[gamemode=creative] run summon tnt ~ ~ ~
 
 execute at @a[gamemode=spectator] run say You Can't Use Cheat !
 
