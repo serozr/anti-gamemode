@@ -3,12 +3,12 @@
 # <div align="center"><img src="https://i.imgur.com/R7yteCX.png" height="108px" /><br />Minecraft Java Data Pack: Anti Gamemode</div>
 
 <div align="center">
+  <img src="https://img.shields.io/github/downloads/serozr/anti-gamemode/total?style=flat-square&logo=github&color=blue" />
   <img src="https://img.shields.io/github/languages/count/serozr/anti-gamemode?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/languages/top/serozr/anti-gamemode?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/github/languages/top/serozr/anti-gamemode?style=flat-square&logo=github&color=red" />
   <img src="https://img.shields.io/github/repo-size/serozr/anti-gamemode?style=flat-square&logo=github" />
   <img src="https://img.shields.io/github/watchers/serozr/anti-gamemode?style=flat-square&logo=github" />
   <img src="https://img.shields.io/github/stars/serozr/anti-gamemode?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/forks/serozr/anti-gamemode?style=flat-square&logo=github" />
 </div>
 
 <table>
