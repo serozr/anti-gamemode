@@ -63,5 +63,5 @@ Version List
 
 - 1.13 / 1.14 / 1.15 / 1.16 / 1.17 / 1.18 / 1.19
 
-## 🐛 Contanct
+## 🐛 Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/317910151241924608)](https://discord.com/users/317910151241924608)
