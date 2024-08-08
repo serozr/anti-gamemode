@@ -1,6 +1,6 @@
- {
-       "pack": {
-           "pack_format": 10,
-           "description": "§c Anti Gamemode §6 by Serozr"
-       }
-   }
+{
+  "pack": {
+    "pack_format": 10,
+    "description": "Anti Gamemode - Prevents switching to Creative or Spectator mode and forces Survival mode."
+  }
+}

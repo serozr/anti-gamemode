@@ -1,6 +1,6 @@
 {
- "values": [
- "wi:setup"
-
- ]
-}
+    "values": [
+      "anti_gamemode:check_gamemode"
+    ]
+  }
+  

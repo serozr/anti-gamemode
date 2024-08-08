@@ -1,6 +1,6 @@
 {
- "values": [
- "wi:loop"
-
- ]
-}
+    "values": [
+      "anti_gamemode:check_gamemode"
+    ]
+  }
+  
