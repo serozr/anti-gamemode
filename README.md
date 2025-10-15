@@ -27,7 +27,7 @@
 3. Use `/reload` or restart your server
 
 ## 📦 Downloads
-- [CurseForge](https://www.curseforge.com/minecraft/customization/anti-game-mode)
+- [CurseForge](https://legacy.curseforge.com/minecraft/data-packs/anti-gamemode)
 - [Modrinth](https://modrinth.com/datapack/anti-gamemode)
 - [Planet Minecraft](https://www.planetminecraft.com/data-pack/anti-gamemode/)
 - [GitHub Releases](https://github.com/serozr/anti-gamemode/releases)
