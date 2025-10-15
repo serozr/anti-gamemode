@@ -26,6 +26,12 @@
 2. Place the `.zip` in your world's `datapacks` folder
 3. Use `/reload` or restart your server
 
+## 📦 Downloads
+- [CurseForge](https://www.curseforge.com/minecraft/customization/anti-game-mode)
+- [Modrinth](https://modrinth.com/datapack/anti-gamemode)
+- [Planet Minecraft](https://www.planetminecraft.com/data-pack/anti-gamemode/)
+- [GitHub Releases](https://github.com/serozr/anti-gamemode/releases)
+
 ## 🎯 How It Works
 - Checks all players' gamemodes every tick
 - If a forbidden mode is detected:
