@@ -1,0 +1,35 @@
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Java / compiled
+*.class
+*.jar
+
+# Minecraft world/cache files (local, not part of datapacks)
+session.lock
+*.dat
+*.dat_old
+*.db
+
+# Environment files
+.env

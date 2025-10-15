@@ -1,6 +1,23 @@
 {
   "pack": {
-    "pack_format": 10,
-    "description": "Anti Gamemode - Prevents switching to Creative or Spectator mode and forces Survival mode."
+    "pack_format": 48,
+    "description": [
+      {"text": "⚔ ", "color": "gold", "bold": true},
+      {"text": "Anti-Gamemode ", "color": "yellow", "bold": true},
+      {"text": "System", "color": "white"},
+      "\n",
+      {"text": "Prevents unauthorized gamemode changes", "color": "gray", "italic": true},
+      "\n",
+      {"text": "✓ ", "color": "green"},
+      {"text": "Creative ", "color": "aqua"},
+      {"text": "✓ ", "color": "green"},
+      {"text": "Spectator ", "color": "aqua"},
+      {"text": "✓ ", "color": "green"},
+      {"text": "Adventure", "color": "aqua"}
+    ],
+    "supported_formats": {
+      "min_inclusive": 10,
+      "max_inclusive": 48
+    }
   }
 }
