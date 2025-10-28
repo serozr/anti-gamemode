@@ -1,69 +1,69 @@
-🌐｜[English](./README.md)
-
-# <div align="center"><img src="https://i.imgur.com/R7yteCX.png" height="108px" /><br />⚔ Anti-Gamemode System</div>
-
 <div align="center">
-  <b>A powerful Minecraft datapack that prevents unauthorized gamemode changes</b><br>
-  <img src="https://img.shields.io/github/downloads/serozr/anti-gamemode/total?style=flat-square&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/languages/count/serozr/anti-gamemode?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/languages/top/serozr/anti-gamemode?style=flat-square&logo=github&color=red" />
-  <img src="https://img.shields.io/github/repo-size/serozr/anti-gamemode?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/watchers/serozr/anti-gamemode?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/serozr/anti-gamemode?style=flat-square&logo=github" />
+
+<img src="https://i.imgur.com/R7yteCX.png" height="108px" alt="Anti-Gamemode Logo" />
+
+### 🚫 Prevent unauthorized gamemode changes — keep your world fair!
+
+[![Downloads](https://img.shields.io/github/downloads/serozr/anti-gamemode/total?style=flat-square&logo=github&color=blue)](https://github.com/serozr/anti-gamemode/releases)
+[![Languages](https://img.shields.io/github/languages/count/serozr/anti-gamemode?style=flat-square&logo=github)](https://github.com/serozr/anti-gamemode)
+[![Top Language](https://img.shields.io/github/languages/top/serozr/anti-gamemode?style=flat-square&logo=github&color=red)](https://github.com/serozr/anti-gamemode)
+[![Repo Size](https://img.shields.io/github/repo-size/serozr/anti-gamemode?style=flat-square&logo=github)](https://github.com/serozr/anti-gamemode)
+[![Watchers](https://img.shields.io/github/watchers/serozr/anti-gamemode?style=flat-square&logo=github)](https://github.com/serozr/anti-gamemode)
+
 </div>
 
 ---
 
 ## ✨ Features
-- Real-time detection and blocking of Creative, Spectator, and Adventure modes
-- Instantly reverts players to Survival mode
-- Colorful warning titles, chat messages, and sound effects
-- Modern folder structure (`function/`)
-- Easy installation, no lag, supports 1.13–1.21+
-
-## 🚀 Installation
-1. Download the latest release from [GitHub Releases](https://github.com/serozr/anti-gamemode/releases)
-2. Place the `.zip` in your world's `datapacks` folder
-3. Use `/reload` or restart your server
-
-## 📦 Downloads
-- [CurseForge](https://legacy.curseforge.com/minecraft/data-packs/anti-gamemode)
-- [Modrinth](https://modrinth.com/datapack/anti-gamemode)
-- [Planet Minecraft](https://www.planetminecraft.com/data-pack/anti-gamemode/)
-- [GitHub Releases](https://github.com/serozr/anti-gamemode/releases)
-
-## 🎯 How It Works
-- Checks all players' gamemodes every tick
-- If a forbidden mode is detected:
-  - ⚠️ Red warning title
-  - 💬 Colorful chat message
-  - 🔊 Sound effect
-  - Instantly switched to Survival
-
-## 📁 Folder Structure (1.21+)
-```
-data/
-  anti_gamemode/
-    function/
-      check_gamemode.mcfunction
-      punish/
-  minecraft/
-    tags/
-      function/
-        load.json
-        tick.json
-```
-
-## 🔮 Planned Features
-- Admin/mod bypass system
-- Strike & punishment system
-- Customizable messages & sounds
-- Statistics and logging
-- Discord/webhook integration
-
-## 🐛 Contact
-[![Discord Presence](https://lanyard.cnrad.dev/api/317910151241924608)](https://discord.com/users/317910151241924608)
+- 🔍 **Real-time detection** of Creative, Spectator & Adventure modes  
+- ⛏️ **Instant reversion** to Survival  
+- 💬 **Stylish warnings:** colored titles, messages & sounds  
+- 🧩 **Clean structure** — organized `function/` system  
+- ⚡ **Lightweight & lag-free**, supports **Minecraft 1.13–1.21+**
 
 ---
 
-> Want a new feature? Open an issue or pull request on GitHub!
+## 🖼️ Preview
+<div align="center">
+  <img src="https://i.imgur.com/oT9mtYK.gif" height="300px" alt="Anti-Gamemode preview gif" />
+</div>
+
+---
+
+## 📦 Downloads
+Choose your preferred platform:
+
+| Platform | Link |
+|-----------|------|
+| 🟢 **Modrinth** | [modrinth.com/datapack/anti-gamemode](https://modrinth.com/datapack/anti-gamemode) |
+| 🟣 **Planet Minecraft** | [planetminecraft.com/data-pack/anti-gamemode](https://www.planetminecraft.com/data-pack/anti-gamemode/) |
+| ⚫ **GitHub Releases** | [github.com/serozr/anti-gamemode/releases](https://github.com/serozr/anti-gamemode/releases) |
+
+---
+
+## 🚀 Installation
+1. Download the latest release from [GitHub Releases](https://github.com/serozr/anti-gamemode/releases)  
+2. Drop the `.zip` file into your world’s **`datapacks/`** folder  
+3. Run `/reload` or restart your server  
+4. ✅ Done — your world is now protected!
+
+---
+
+## 🎯 How It Works
+- Monitors every player’s gamemode **each tick**  
+- If a forbidden mode is detected:  
+  - ⚠️ **Red warning title**  
+  - 💬 **Colored chat alert**  
+  - 🔊 **Sound effect**  
+  - ⛓️ Instantly switched back to **Survival**
+
+---
+
+<div align="center">
+
+**Made with ❤️ for all Minecraft players.**  
+_Designed to protect fair gameplay and strengthen survival worlds._  
+
+🧱 Developer: [Serozr](https://github.com/serozr)
+
+</div>
